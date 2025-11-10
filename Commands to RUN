@@ -1,0 +1,15 @@
+BACKEND
+
+cd backend
+
+pip install -r requirements.txt
+
+py app.py
+
+FRONTEND
+
+cd frontend
+
+npm install
+
+npm run dev
